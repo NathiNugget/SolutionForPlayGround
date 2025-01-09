@@ -1,0 +1,12 @@
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\bin\Debug\net8.0\ExampleExam.deps.json
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\bin\Debug\net8.0\ExampleExam.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\bin\Debug\net8.0\ExampleExam.pdb
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.AssemblyInfoInputs.cache
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.AssemblyInfo.cs
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.csproj.CoreCompileInputs.cache
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\refint\ExampleExam.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.pdb
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ref\ExampleExam.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\ExampleExam\obj\Debug\net8.0\ExampleExam.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\PlayGroundREST.exe
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\PlayGroundREST.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\PlayGroundREST.deps.json
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\PlayGroundREST.runtimeconfig.json
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\PlayGroundREST.pdb
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\ExampleExam.dll
+C:\Users\natha\prog3sem\eksamen\ExampleExam\PlayGroundREST\obj\Release\net8.0\PubTmp\Out\ExampleExam.pdb

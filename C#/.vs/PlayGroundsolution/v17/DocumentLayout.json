@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB6205B-3ADF-47B2-ACF1-6AE598AEB28E}|ExampleExamTests\\ExampleExamTests.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\exampleexamtests\\playgroundsdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB6205B-3ADF-47B2-ACF1-6AE598AEB28E}|ExampleExamTests\\ExampleExamTests.csproj|solutionrelative:exampleexamtests\\playgroundsdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\exampleexam\\playgroundsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|solutionrelative:exampleexam\\playgroundsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\AppData\\Local\\Temp\\dzi4z4kg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/mssql3.unoeuro.com/nathanielrisum_dk_db_dev/nathanielrisum_dk/SqlTable/dbo.PlayGrounds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\exampleexam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|solutionrelative:exampleexam\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\playgroundrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|solutionrelative:playgroundrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30701010-58EA-4152-8E3B-07621D94FAD9}|TCPTest\\TCPTest.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\tcptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30701010-58EA-4152-8E3B-07621D94FAD9}|TCPTest\\TCPTest.csproj|solutionrelative:tcptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\exampleexam\\playgroundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|solutionrelative:exampleexam\\playgroundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\playgroundrest\\controllers\\playgrounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|solutionrelative:playgroundrest\\controllers\\playgrounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\exampleexam\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A74B96-57F8-49AD-B18B-A950E001E593}|ExampleExam\\ExampleExam.csproj|solutionrelative:exampleexam\\playground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|c:\\users\\natha\\prog3sem\\eksamen\\c#\\playgroundrest\\playgroundrest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5EFF4163-48A3-4F99-BFAB-1FCD987584E3}|PlayGroundREST\\PlayGroundREST.csproj|solutionrelative:playgroundrest\\playgroundrest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dzi4z4kg..sql",
+              "DocumentMoniker": "C:\\Users\\natha\\AppData\\Local\\Temp\\dzi4z4kg..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dzi4z4kg..sql",
+              "ToolTip": "C:\\Users\\natha\\AppData\\Local\\Temp\\dzi4z4kg..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\dzi4z4kg..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-09T13:41:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.PlayGrounds.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/mssql3.unoeuro.com/nathanielrisum_dk_db_dev/nathanielrisum_dk/SqlTable/dbo.PlayGrounds.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/mssql3.unoeuro.com/nathanielrisum_dk_db_dev/nathanielrisum_dk/SqlTable/dbo.PlayGrounds.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-09T13:21:37.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayGroundsDBTests.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExamTests\\PlayGroundsDBTests.cs",
+              "RelativeDocumentMoniker": "ExampleExamTests\\PlayGroundsDBTests.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExamTests\\PlayGroundsDBTests.cs",
+              "RelativeToolTip": "ExampleExamTests\\PlayGroundsDBTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:09:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayGroundsDB.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGroundsDB.cs",
+              "RelativeDocumentMoniker": "ExampleExam\\PlayGroundsDB.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGroundsDB.cs",
+              "RelativeToolTip": "ExampleExam\\PlayGroundsDB.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAmwI0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:40:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\TCPTest\\Program.cs",
+              "RelativeDocumentMoniker": "TCPTest\\Program.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\TCPTest\\Program.cs",
+              "RelativeToolTip": "TCPTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:25:29.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\Server.cs",
+              "RelativeDocumentMoniker": "ExampleExam\\Server.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\Server.cs",
+              "RelativeToolTip": "ExampleExam\\Server.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:09:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayGrounds.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\Controllers\\PlayGrounds.cs",
+              "RelativeDocumentMoniker": "PlayGroundREST\\Controllers\\PlayGrounds.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\Controllers\\PlayGrounds.cs",
+              "RelativeToolTip": "PlayGroundREST\\Controllers\\PlayGrounds.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:02:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\Program.cs",
+              "RelativeDocumentMoniker": "PlayGroundREST\\Program.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\Program.cs",
+              "RelativeToolTip": "PlayGroundREST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:59:19.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayGroundREST.http",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\PlayGroundREST.http",
+              "RelativeDocumentMoniker": "PlayGroundREST\\PlayGroundREST.http",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\PlayGroundREST\\PlayGroundREST.http",
+              "RelativeToolTip": "PlayGroundREST\\PlayGroundREST.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-09T10:59:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayGroundRepository.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGroundRepository.cs",
+              "RelativeDocumentMoniker": "ExampleExam\\PlayGroundRepository.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGroundRepository.cs",
+              "RelativeToolTip": "ExampleExam\\PlayGroundRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:48:04.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayGround.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGround.cs",
+              "RelativeDocumentMoniker": "ExampleExam\\PlayGround.cs",
+              "ToolTip": "C:\\Users\\natha\\prog3sem\\eksamen\\C#\\ExampleExam\\PlayGround.cs",
+              "RelativeToolTip": "ExampleExam\\PlayGround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:21:08.834Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
