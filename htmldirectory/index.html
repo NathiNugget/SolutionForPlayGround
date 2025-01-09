@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Code here! -->
+        <h1>Giflar er nice!</h1>
+        yolo
+        <table>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>name</th>
+                    <th>maxChildren</th>
+                    <th>minAge</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="pgr in playgrounds">
+                    <td>{{pgr.id}}</td>
+                    <td>{{pgr.name}}</td>
+                    <td>{{pgr.maxChildren}}</td>
+                    <td>{{pgr.minAge}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <button @click="POST()">Klik her for at oprette ny playground</button>
+        <br>
+        <input type="number" placeholder="Skriv id" v-model="newId">
+        <input type="text" placeholder="Skriv navn" v-model="newName">
+        <input type="number" placeholder="Skriv max antal børn" v-model="newMaxChildren">
+        <input type="number" placeholder="Skriv mindste alder" v-model="newMinAge">
+        <br>
+        <button @click="PUT()">Klik her for at opdatere en playground</button>
+
+
+
+
+
+
+        <!-- But before the end of this -->
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+</html>
