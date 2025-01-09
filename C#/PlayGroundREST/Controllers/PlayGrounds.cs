@@ -28,9 +28,11 @@ namespace PlayGroundREST.Controllers
         [Route("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public IActionResult Get(int id) { 
+        public IActionResult Get(int id)
+        {
             PlayGround pgr = _repo.GetById(id);
-            if (pgr == null) { 
+            if (pgr == null)
+            {
                 return NotFound(id);
             }
             return Ok(pgr);
@@ -47,7 +49,8 @@ namespace PlayGroundREST.Controllers
                 pgr = _repo.Add(pgr);
                 return Created($"Id/{pgr.Id}", pgr);
             }
-            catch (Exception ex) { 
+            catch (Exception ex)
+            {
                 return BadRequest(ex.Message);
             }
         }
@@ -66,11 +69,11 @@ namespace PlayGroundREST.Controllers
                 PlayGround pgr = _repo.GetById(id);
                 Console.WriteLine(pgr);
                 PlayGround newPgr = new PlayGround(id, dto.name, dto.maxchildren, dto.minage);
-                if (_repo.GetById(id) == null) 
+                if (_repo.GetById(id) == null)
                 {
                     return NotFound(id);
                 }
-                var newpgr = _repo.Update(id, newPgr); 
+                var newpgr = _repo.Update(id, newPgr);
 
                 return Ok(newpgr);
 

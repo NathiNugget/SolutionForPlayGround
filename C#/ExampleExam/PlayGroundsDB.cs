@@ -1,9 +1,4 @@
 using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExampleExam
 {
@@ -33,7 +28,8 @@ namespace ExampleExam
                 con.Open();
                 SqlCommand cmd = new SqlCommand(@query, con);
                 SqlDataReader reader = cmd.ExecuteReader();
-                while (reader.Read()) {
+                while (reader.Read())
+                {
                     pgr = ReadFromReader(reader);
                 }
 
@@ -46,7 +42,7 @@ namespace ExampleExam
             return new PlayGround(reader.GetInt32(0), reader.GetString(1), reader.GetInt32(2), reader.GetInt32(3));
         }
 
-        
+
 
         public PlayGround GetById(int id)
         {
@@ -59,7 +55,8 @@ namespace ExampleExam
                 SqlCommand command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@pid", id);
                 SqlDataReader reader = command.ExecuteReader();
-                while (reader.Read()) {
+                while (reader.Read())
+                {
                     pgr = ReadFromReader(reader);
                 }
             }
@@ -93,8 +90,8 @@ namespace ExampleExam
                     pgr = ReadFromReader(reader);
                 }
             }
-            return pgr; 
-            
+            return pgr;
+
         }
 
         public void Nuke()
@@ -108,8 +105,8 @@ namespace ExampleExam
             }
 
 
-            query = "DBCC CHECKIDENT (PlayGrounds, RESEED, 0) "; 
-            using(SqlConnection connection = new SqlConnection(CONNECTIONSTRING))
+            query = "DBCC CHECKIDENT (PlayGrounds, RESEED, 0) ";
+            using (SqlConnection connection = new SqlConnection(CONNECTIONSTRING))
             {
                 connection.Open();
                 SqlCommand command = new SqlCommand(query, connection);
@@ -120,12 +117,12 @@ namespace ExampleExam
         public void Setup()
         {
             Add(new PlayGround(1, "TEST1", 10, 10));
-            Add(new PlayGround(-1, "TEST2", 11, 11)); 
+            Add(new PlayGround(-1, "TEST2", 11, 11));
         }
 
         public List<PlayGround> GetAll()
         {
-            string query = "select * from PlayGrounds"; 
+            string query = "select * from PlayGrounds";
             List<PlayGround> list = new List<PlayGround>();
             using (SqlConnection con = new SqlConnection(CONNECTIONSTRING))
             {

@@ -10,7 +10,7 @@
         public PlayGround(int id, string name, int maxChildren, int minAge)
         {
             Id = id;
-            Name = name ;
+            Name = name;
             MaxChildren = maxChildren;
             MinAge = minAge;
         }

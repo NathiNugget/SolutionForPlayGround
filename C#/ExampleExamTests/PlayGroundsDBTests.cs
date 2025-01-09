@@ -1,10 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ExampleExam;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Diagnostics.CodeAnalysis;
 
 namespace ExampleExam.Tests
@@ -13,11 +6,11 @@ namespace ExampleExam.Tests
     [ExcludeFromCodeCoverage]
     public class PlayGroundsDBTests
     {
-        private static PlayGroundsDB _repo = new PlayGroundsDB(); 
+        private static PlayGroundsDB _repo = new PlayGroundsDB();
         [TestInitialize]
         public void Setup()
         {
-            _repo.Nuke(); 
+            _repo.Nuke();
             _repo.Setup();
         }
 
@@ -33,7 +26,7 @@ namespace ExampleExam.Tests
         {
             int expected = 3;
             PlayGround pgr = _repo.Add(new PlayGround(id, name, maxchildren, minage));
-            int actual = pgr.Id; 
+            int actual = pgr.Id;
             Assert.AreEqual(expected, actual);
         }
 
@@ -49,7 +42,7 @@ namespace ExampleExam.Tests
         public void GetByIdTest(int id)
         {
             PlayGround actual = _repo.GetById(id);
-            Assert.IsTrue("TEST1" == actual.Name && 10 == actual.MaxChildren && 10 == actual.MinAge); 
+            Assert.IsTrue("TEST1" == actual.Name && 10 == actual.MaxChildren && 10 == actual.MinAge);
         }
 
         [TestMethod()]
@@ -58,7 +51,7 @@ namespace ExampleExam.Tests
         public void UpdateTest(int id, string name, int maxchildren, int minage)
         {
             PlayGround expected = new PlayGround(id, name, maxchildren, minage);
-            PlayGround actual = _repo.Update(id, expected); 
+            PlayGround actual = _repo.Update(id, expected);
             Assert.AreEqual(name, actual.Name);
         }
 
@@ -66,18 +59,19 @@ namespace ExampleExam.Tests
         public void NukeTest()
         {
             _repo.Nuke();
-            Assert.IsTrue(true); 
+            Assert.IsTrue(true);
         }
 
         [TestMethod()]
         public void SetupTest()
         {
             _repo.Setup();
-            Assert.IsTrue(true); 
+            Assert.IsTrue(true);
         }
 
         [TestCleanup]
-        public void Cleanup() {
+        public void Cleanup()
+        {
             _repo.Nuke();
         }
     }
